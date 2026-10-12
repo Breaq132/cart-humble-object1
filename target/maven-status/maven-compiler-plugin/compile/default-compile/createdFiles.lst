@@ -1,0 +1,16 @@
+starter\cart\port\ProductPriceVerifier.class
+starter\cart\api\CartResponse.class
+starter\cart\domain\Cart.class
+starter\cart\infrastructure\StaticProductPriceVerifier.class
+starter\cart\domain\ProductInfo.class
+starter\cart\api\CartFrame$1.class
+starter\cart\api\CartFrame.class
+starter\cart\infrastructure\InMemoryCartRepository.class
+starter\cart\api\RemoveCartItemRequest.class
+starter\cart\port\CartRepository.class
+starter\cart\service\CartService.class
+starter\Main.class
+starter\cart\api\CartController.class
+starter\cart\domain\CartItem.class
+starter\cart\api\CartItemResponse.class
+starter\cart\api\CartRequest.class
